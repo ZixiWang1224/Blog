@@ -1,2 +1,2 @@
-# copywriting
+# Blog
 Record my life.
