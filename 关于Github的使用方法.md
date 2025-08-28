@@ -50,3 +50,6 @@ git config --global https.proxy https://x.x.x.x:xxxx
 
 但是之前在一个项目的实习中，有学长提到 Windows 环境下直接在 GitHub 中设置网络代理似乎是不行的，但是我也没有尝试过。如果遇到这种情况，可以直接在相应的本地仓库打开 git bash 然后输入以上代码进行设置。
 
+## 协作项目要建立审查
+
+[bilibili](https://www.bilibili.com/video/BV1udEuzrEa7?spm_id_from=333.788.videopod.sections&vd_source=511a91ef2f7b2b1dbc28ac62a47dadae)
