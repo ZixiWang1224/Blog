@@ -34,3 +34,19 @@ git push -u origin main
 ## Awesome list
 
 ## Hello Github
+
+## 设置代理
+
+有时在 clone GitHub repo 时会遇到速度过慢甚至失败的情况，而这些往往是因为没有设置网络代理。
+
+- 打开 VSCode 的 terminal
+- 输入
+
+```bash
+git config --global http.proxy http://x.x.x.x:xxxx 
+# 相应代理地址
+git config --global https.proxy https://x.x.x.x:xxxx
+```
+
+但是之前在一个项目的实习中，有学长提到 Windows 环境下直接在 GitHub 中设置网络代理似乎是不行的，但是我也没有尝试过。如果遇到这种情况，可以直接在相应的本地仓库打开 git bash 然后输入以上代码进行设置。
+
