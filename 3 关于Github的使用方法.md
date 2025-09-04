@@ -59,3 +59,5 @@ git config --global https.proxy https://x.x.x.x:xxxx
 ## token
 
 ## Github大文件上传与管理
+
+## 移动一个文件和重新上传这个文件所需要的算力？
