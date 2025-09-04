@@ -52,4 +52,8 @@ git config --global https.proxy https://x.x.x.x:xxxx
 
 ## 协作项目要建立审查
 
-[bilibili](https://www.bilibili.com/video/BV1udEuzrEa7?spm_id_from=333.788.videopod.sections&vd_source=511a91ef2f7b2b1dbc28ac62a47dadae)
+[和傻子一起写代码](https://www.bilibili.com/video/BV1udEuzrEa7?spm_id_from=333.788.videopod.sections&vd_source=511a91ef2f7b2b1dbc28ac62a47dadae)
+
+## API
+
+## token
