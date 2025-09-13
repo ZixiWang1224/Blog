@@ -1,4 +1,4 @@
-# Markdown 转 PDF
+# Markdown 转 PDF with Latex
 
 在 VScode 中编写笔记十分方便，但是有时我们需要将其转换为其他格式。最常用的格式是 `html` 和 `pdf`.
 
