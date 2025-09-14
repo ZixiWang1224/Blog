@@ -13,6 +13,9 @@ Prop
 - 交换律
 - 结合律
 - 卷积保持可乘性
+
+---
+
 - 数论函数环
 - 幺元及其卷积表示（associated with Möbius function）
 - Möbius 反演公式
