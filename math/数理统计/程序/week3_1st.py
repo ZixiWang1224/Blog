@@ -19,7 +19,7 @@ y_t3 = t.pdf(x, df = 3)
 y_t30 = t.pdf(x, df = 30)
 y_t100 = t.pdf(x, df = 100)
 
-# 创建图形？
+# 创建图形
 plt.figure(figsize=(8, 6))
 
 # plot stan normal distr
