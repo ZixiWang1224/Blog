@@ -23,3 +23,8 @@ First, you need to install the OS. It will cost some time, so it's good to try a
 
 Now the VM finished the OS install. But now comes a problem that i can not find my mouse. Emmmm, a good treak is restarting.
 
+# Fit the Screen
+
+If you have installed the VM, probably you will find that the screen ratio is strange. So must adjust it to make ourselves comfortable. Find 「安装增强功能」in the menu, and find a file ending with amd64, click it and install.
+
+Now minimize the VM window and maximize it again, then we will get a large window. And use setting to adjust the VM to a suitable show.
