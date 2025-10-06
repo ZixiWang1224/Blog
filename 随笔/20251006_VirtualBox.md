@@ -21,3 +21,5 @@ The next step is to install VB and set it.
 
 First, you need to install the OS. It will cost some time, so it's good to try a cup of coffee. (It's just a joke. In fact I am writing this document while waiting for the instalation. But 20min has past, and the instalation is still running.)
 
+Now the VM finished the OS install. But now comes a problem that i can not find my mouse. Emmmm, a good treak is restarting.
+
